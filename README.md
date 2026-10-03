@@ -52,8 +52,8 @@ The obvious question about a secrets manager in Node. Answer: D-Kit is one langu
 ## The graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sera0x/sera0x/snake/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sera0x/sera0x/snake/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sera0x/sera0x/snake/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sera0x/sera0x/snake/github-contribution-grid-snake.svg" />
 </picture>
 
 ## Elsewhere
